@@ -1,6 +1,5 @@
-# Spring Boot H2 Integration Demo
 
-<img>.src/main/resources/static/sequence-diagram.png</img>
+![Spring Boot H2 Integration Demo]([https://your-image-url.com/image.png](https://github.com/devparthgarg/h2-database/blob/main/src/main/resources/static/sequence-diagram.png))
 
 This is a simple Java Spring Boot project demonstrating integration with an in-memory H2 database. It includes two REST APIs to manage employee records.
 
