@@ -20,7 +20,7 @@ This is a simple Java Spring Boot project demonstrating integration with an in-m
 
 ## API Endpoints
 
-### ➕ Add Employee
+### Add Employee
 ```
 curl --location 'http://localhost:8080/v1/create' \
 --header 'Content-Type: application/json' \
@@ -28,7 +28,7 @@ curl --location 'http://localhost:8080/v1/create' \
     "name":"Manvi"
 }'
 ```
-📋 Get All Employees
+### Get All Employees
 ```
 curl --location 'http://localhost:8080/v1/get/all'
 ```
